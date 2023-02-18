@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Token Creation and Deployment 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+<img width="1085" alt="Screen Shot 2023-02-18 at 8 02 34 AM" src="https://user-images.githubusercontent.com/81759076/219871096-883114fb-4134-41d5-93ae-9720436f965b.png">
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
